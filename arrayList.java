@@ -50,8 +50,14 @@ class ArrayList
     public int getSize() {
         return this.size;
     }
-
     
+    /*
+        Designates some tests for our array list class.
+    */
 
+    public static void main(String [] args) {
+       System.out.println("Test"); 
+
+    }
 
 }
