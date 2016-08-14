@@ -11,8 +11,7 @@ email: marcus.flores09gmail.com
 description: > # this means to ignore newlines until "baseurl:"
        In order to practice working with Git and Jekyll, I have deployed this site.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: marc 
+url: "https://marcf08.github.io/" # the base hostname & protocol for your site
 github_username: marcf08 
 
 # Build settings
