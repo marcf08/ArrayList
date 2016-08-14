@@ -1,5 +1,6 @@
 /*
    This is a basic Array List class and a test function for it.
+   If I'm feeling brave, I may rewrite this in C.
    @author Marcus Flores
  */
 
